@@ -1,2 +1,3 @@
-# compsust.github.io
-Website repo for the SFU Computational Sustainability Lab
+# SFU Computational Sustainability Lab
+
+Website repo for the http://compsust.fas.sfu.ca
